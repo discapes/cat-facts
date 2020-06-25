@@ -1,3 +1,3 @@
-# cats-facts
+# cat-facts
 
 cat facts bot lol
